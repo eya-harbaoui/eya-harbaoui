@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Eya Harbaoui, a Computer Science Engineer with a deep passion for Artificial Intelligence 🤖 and Web Development 💻. I’m actively seeking new challenges and opportunities to grow 🚀.
+Hello! I'm Eya Harbaoui, a Software engineer with a deep passion for Artificial Intelligence 🤖 and Web Development 💻. I’m actively seeking new challenges and opportunities to grow 🚀.
 
 
 ## 🌐 Socials:
